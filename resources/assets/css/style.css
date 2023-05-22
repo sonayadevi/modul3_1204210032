@@ -1,0 +1,19 @@
+.bg-purple{
+    background-color: #7533F9;
+}
+#main a{
+    color: gray;
+}
+
+#footer a:hover{
+    color: rgb(73, 73,73);
+}
+#footer a{
+    text-decoration: none;
+    color: black;
+}
+
+#footer a:hover{
+    text-decoration: underline;
+    color: var(--bs-primary) !important;
+}
